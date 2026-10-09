@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/poojagour231/Data_Structure_-_Algorithm/tree/master/0204-count-primes) |
+| [0283-move-zeroes](https://github.com/poojagour231/Data_Structure_-_Algorithm/tree/master/0283-move-zeroes) |
 ## Math
 |  |
 | ------- |
@@ -29,4 +30,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0204-count-primes](https://github.com/poojagour231/Data_Structure_-_Algorithm/tree/master/0204-count-primes) |
+## Two Pointers
+|  |
+| ------- |
+| [0283-move-zeroes](https://github.com/poojagour231/Data_Structure_-_Algorithm/tree/master/0283-move-zeroes) |
 <!---LeetCode Topics End-->
