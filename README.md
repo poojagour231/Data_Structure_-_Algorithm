@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/poojagour231/Data_Structure_-_Algorithm/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/poojagour231/Data_Structure_-_Algorithm/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/poojagour231/Data_Structure_-_Algorithm/tree/master/0204-count-primes) |
 ## Enumeration
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0013-roman-to-integer](https://github.com/poojagour231/Data_Structure_-_Algorithm/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/poojagour231/Data_Structure_-_Algorithm/tree/master/0169-majority-element) |
 ## Divide and Conquer
 |  |
@@ -60,4 +62,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/poojagour231/Data_Structure_-_Algorithm/tree/master/0169-majority-element) |
+## String
+|  |
+| ------- |
+| [0013-roman-to-integer](https://github.com/poojagour231/Data_Structure_-_Algorithm/tree/master/0013-roman-to-integer) |
 <!---LeetCode Topics End-->
