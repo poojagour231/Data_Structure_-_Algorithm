@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0031-next-permutation](https://github.com/poojagour231/Data_Structure_-_Algorithm/tree/master/0031-next-permutation) |
+| [0049-group-anagrams](https://github.com/poojagour231/Data_Structure_-_Algorithm/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/poojagour231/Data_Structure_-_Algorithm/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/poojagour231/Data_Structure_-_Algorithm/tree/master/0189-rotate-array) |
 | [0204-count-primes](https://github.com/poojagour231/Data_Structure_-_Algorithm/tree/master/0204-count-primes) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/poojagour231/Data_Structure_-_Algorithm/tree/master/0013-roman-to-integer) |
+| [0049-group-anagrams](https://github.com/poojagour231/Data_Structure_-_Algorithm/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/poojagour231/Data_Structure_-_Algorithm/tree/master/0169-majority-element) |
 | [0205-isomorphic-strings](https://github.com/poojagour231/Data_Structure_-_Algorithm/tree/master/0205-isomorphic-strings) |
 ## Divide and Conquer
@@ -54,6 +56,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0049-group-anagrams](https://github.com/poojagour231/Data_Structure_-_Algorithm/tree/master/0049-group-anagrams) |
 | [0169-majority-element](https://github.com/poojagour231/Data_Structure_-_Algorithm/tree/master/0169-majority-element) |
 ## Counting
 |  |
@@ -67,5 +70,6 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/poojagour231/Data_Structure_-_Algorithm/tree/master/0013-roman-to-integer) |
+| [0049-group-anagrams](https://github.com/poojagour231/Data_Structure_-_Algorithm/tree/master/0049-group-anagrams) |
 | [0205-isomorphic-strings](https://github.com/poojagour231/Data_Structure_-_Algorithm/tree/master/0205-isomorphic-strings) |
 <!---LeetCode Topics End-->
